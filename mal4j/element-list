@@ -1,0 +1,16 @@
+module:Mal4J
+dev.katsute.mal4j
+dev.katsute.mal4j.anime
+dev.katsute.mal4j.anime.property
+dev.katsute.mal4j.anime.property.time
+dev.katsute.mal4j.character
+dev.katsute.mal4j.exception
+dev.katsute.mal4j.forum
+dev.katsute.mal4j.forum.property
+dev.katsute.mal4j.manga
+dev.katsute.mal4j.manga.property
+dev.katsute.mal4j.people
+dev.katsute.mal4j.property
+dev.katsute.mal4j.query
+dev.katsute.mal4j.user
+dev.katsute.mal4j.user.property
