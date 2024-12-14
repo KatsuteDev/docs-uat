@@ -1,0 +1,5 @@
+module:SimpleHttpServer
+dev.katsute.simplehttpserver
+dev.katsute.simplehttpserver.handler
+dev.katsute.simplehttpserver.handler.file
+dev.katsute.simplehttpserver.handler.throttler
