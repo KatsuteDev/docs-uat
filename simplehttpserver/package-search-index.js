@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"SimpleHttpServer","l":"dev.katsute.simplehttpserver"},{"m":"SimpleHttpServer","l":"dev.katsute.simplehttpserver.handler"},{"m":"SimpleHttpServer","l":"dev.katsute.simplehttpserver.handler.file"},{"m":"SimpleHttpServer","l":"dev.katsute.simplehttpserver.handler.throttler"}];updateSearchResults();
